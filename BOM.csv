@@ -1,0 +1,108 @@
+ITEM NO.,PART NUMBER,DESCRIPTION,QTY.
+1,Y Rail,,2
+2,Misumi L bracket,,14
+3,y-bed,,1
+,  y-carriage,,1
+,  M3 Spacer,,4
+,  heated-bed,,1
+,  y-belt-holder,,1
+,  Eccentric Delrin Assembly,,2
+,    Steel Eccentric Spacer,,1
+,    Precision Shim 10x5x1mm,,1
+,    Nylon Insert Hex Locknut M5,,1
+,    Dual V-Wheel Delrin,,1
+,    5mm Low Profile Socket Head Screw,,1
+,  Delrin Assembly,,3
+,    Aluminum Spacer,,1
+,    Precision Shim 10x5x1mm,,1
+,    Dual V-Wheel Delrin,,1
+,    Nylon Insert Hex Locknut M5,,1
+,    5mm Low Profile Socket Head Screw,,1
+,  Copy of Assem1^y-bed,,1
+,    Aluminum Spacer,,1
+,    Precision Shim 10x5x1mm,,1
+,    Dual V-Wheel Delrin,,1
+,    Nylon Insert Hex Locknut M5,,1
+,    5mm Low Profile Socket Head Screw,,1
+4,y-bracket,,1
+,  NEMA17_48,,1
+,  GT2 Pulley,,1
+,  Z Stepper Mount,,1
+,  Stepper Damper,,1
+5,Z Rail,,2
+6,X Axis,,1
+,  X Motor,,1
+,    NEMA17_48,,1
+,    X Stepper Mount,,1
+,    GT2 Pulley,,1
+,    Delrin Assembly,,2
+,      Aluminum Spacer,,1
+,      Precision Shim 10x5x1mm,,1
+,      Dual V-Wheel Delrin,,1
+,      Nylon Insert Hex Locknut M5,,1
+,      5mm Low Profile Socket Head Screw,,1
+,    Eccentric Delrin Assembly,,1
+,      Steel Eccentric Spacer,,1
+,      Precision Shim 10x5x1mm,,1
+,      Nylon Insert Hex Locknut M5,,1
+,      Dual V-Wheel Delrin,,1
+,      5mm Low Profile Socket Head Screw,,1
+,    Stepper Damper,,1
+,  Upper X Rail,,1
+,  X End,,1
+,  Delrin Assembly,,4
+,    Aluminum Spacer,,1
+,    Precision Shim 10x5x1mm,,1
+,    Dual V-Wheel Delrin,,1
+,    Nylon Insert Hex Locknut M5,,1
+,    5mm Low Profile Socket Head Screw,,1
+,  Eccentric Delrin Assembly,,3
+,    Steel Eccentric Spacer,,1
+,    Precision Shim 10x5x1mm,,1
+,    Nylon Insert Hex Locknut M5,,1
+,    Dual V-Wheel Delrin,,1
+,    5mm Low Profile Socket Head Screw,,1
+,  5mm Low Profile Socket Head Screw,,1
+,  Nylon Spacer,,1
+,  Ball Bearing 608Z,,1
+,  Nylon Insert Hex Locknut M5,,1
+,  X Carriage,,1
+,  Lower X Rail,,1
+,  Nut Block 8mm Acme,,2
+,  NEMA17_48,,1
+,  stepper motor mount,,1
+7,Frame Base,,1
+,  Frame,,5
+,  Misumi L bracket,,18
+,  Base Supports,,4
+,  Frame Long,,2
+,  ATX Power Supply v1.0,,1
+,    Box v1.0 - ATX Power Supply,,1
+,    Cover v1.0 - ATX Power Supply,,1
+,    Grelha Prot Vent 120,,1
+,    IEC Plug,,1
+,    Switch on-off,,1
+,    Ventax 119x119x26,,1
+,    Casq,,1
+,  MiniRambo,,1
+,  RaspberryPi2 model B SW,,1
+,    Mainboard2,,1
+,    GPIO,,1
+,    Processor,,1
+,    GPU,,1
+,    CameraAssembly,,2
+,    hdmi,,1
+,    RAM,,1
+,    Audio,,1
+,    MicroSDSocket,,1
+,    MicroSD,,1
+,    micro USB2,,1
+,    usb double,,2
+,    RJ45-LED,,1
+,  Electronics Platform,,1
+8,Z Stepper,,2
+,  NEMA17_48,,1
+,  Z Stepper Mount,,1
+,  8mm TR8_8 Leadscrew,,1
+,  Stepper Damper,,1
+9,Crossbar,,1

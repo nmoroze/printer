@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.094488189"
+   height="1052.36220472"
+   id="svg3336"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Endstop Mount.svg">
+  <metadata
+     id="metadata3736">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     id="namedview3734"
+     showgrid="false"
+     inkscape:zoom="2.4250206"
+     inkscape:cx="257.50017"
+     inkscape:cy="249.74804"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3444" />
+  <desc
+     id="desc3338">C:\Users\Noah\Documents\Printer\lasercut\Endstop Mount.DXF - scale = 0.500000, origin = (0.000000, 0.000000), auto = False</desc>
+  <defs
+     id="defs3340">
+    <marker
+       refY="0.0"
+       refX="0.0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         id="path3343" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path3346" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path3348" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path3350" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="SW_NOTE_0">
+      <text
+         y="1048.936533"
+         x="0.000000"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3356">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3358">UNLESS OTHERWISE SPECIFIED:</tspan>
+      </text>
+      <text
+         y="1053.365666"
+         x="0.000000"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3360">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3362">DIMENSIONS ARE IN MILLIMETERS</tspan>
+      </text>
+      <text
+         y="1057.794800"
+         x="0.000000"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3364">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3366">SURFACE FINISH:</tspan>
+      </text>
+      <text
+         y="1062.223934"
+         x="0.000000"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3368">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3370">TOLERANCES:</tspan>
+      </text>
+      <text
+         y="1066.653068"
+         x="2.989665"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3372">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3374">LINEAR:</tspan>
+      </text>
+      <text
+         y="1071.082201"
+         x="2.989665"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3376">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3378">ANGULAR:</tspan>
+      </text>
+    </symbol>
+    <symbol
+       id="SW_NOTE_1">
+      <text
+         y="1048.936533"
+         x="0.000000"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3381">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3383">DEBURR AND</tspan>
+      </text>
+      <text
+         y="1053.365666"
+         x="0.000000"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3385">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3387">BREAK SHARP</tspan>
+      </text>
+      <text
+         y="1057.794800"
+         x="0.000000"
+         style="font-size: 2.7px; fill: #000000; font-family: Arial"
+         sodipodi:linespacing="125%"
+         id="text3389">
+        <tspan
+           sodipodi:role="line"
+           id="tspan3391">EDGES</tspan>
+      </text>
+    </symbol>
+    <symbol
+       id="SW_CENTERMARKSYMBOL_0">
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 0.000000,1043.503937"
+         id="path3394" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 -8.858268,1052.362205"
+         id="path3396" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 0.000000,1061.220472"
+         id="path3398" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 8.858268,1052.362205"
+         id="path3400" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1043.503937 0.000000,1038.543307"
+         id="path3402" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M -8.858268,1052.362205 -13.818898,1052.362205"
+         id="path3404" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1061.220472 0.000000,1066.181102"
+         id="path3406" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 8.858268,1052.362205 13.818898,1052.362205"
+         id="path3408" />
+    </symbol>
+    <symbol
+       id="SW_CENTERMARKSYMBOL_1">
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 0.000000,1043.503937"
+         id="path3411" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 -8.858268,1052.362205"
+         id="path3413" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 0.000000,1061.220472"
+         id="path3415" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 8.858268,1052.362205"
+         id="path3417" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1043.503937 0.000000,1034.645669"
+         id="path3419" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M -8.858268,1052.362205 -17.716535,1052.362205"
+         id="path3421" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1061.220472 0.000000,1070.078740"
+         id="path3423" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 8.858268,1052.362205 17.716535,1052.362205"
+         id="path3425" />
+    </symbol>
+    <symbol
+       id="SW_CENTERMARKSYMBOL_2">
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 0.000000,1043.503937"
+         id="path3428" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 -8.858268,1052.362205"
+         id="path3430" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 0.000000,1061.220472"
+         id="path3432" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1052.362205 8.858268,1052.362205"
+         id="path3434" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1043.503937 0.000000,1038.543307"
+         id="path3436" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M -8.858268,1052.362205 -13.818898,1052.362205"
+         id="path3438" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 0.000000,1061.220472 0.000000,1066.181102"
+         id="path3440" />
+      <path
+         style="stroke:#000000;fill:none;stroke-linecap: round"
+         d="M 8.858268,1052.362205 13.818898,1052.362205"
+         id="path3442" />
+    </symbol>
+  </defs>
+  <g
+     inkscape:label="0"
+     inkscape:groupmode="layer"
+     id="g3444">
+    <path
+       style="stroke:#000000;stroke-width:0.5;fill:none;stroke-linecap: round"
+       d="M 228.724895,724.286394 A 4.960630,4.960630 -0.000000 1 0 218.803636,724.286394 4.960630,4.960630 -0.000000 1 0 228.724895,724.286394 z"
+       id="path3704" />
+    <path
+       style="stroke:#000000;stroke-width:0.5;fill:none;stroke-linecap: round"
+       d="M 179.472927,742.002930 A 8.858268,8.858268 -0.000000 1 0 161.756391,742.002930 8.858268,8.858268 -0.000000 1 0 179.472927,742.002930 z"
+       id="path3706" />
+    <path
+       style="stroke:#000000;stroke-width:0.5;fill:none;stroke-linecap: round"
+       d="M 228.724895,759.719465 A 4.960630,4.960630 -0.000000 1 0 218.803636,759.719465 4.960630,4.960630 -0.000000 1 0 228.724895,759.719465 z"
+       id="path3708" />
+    <path
+       style="stroke:#000000;stroke-width:0.5;fill:none;stroke-linecap: round"
+       d="M 152.898124,706.569859 241.480801,706.569859"
+       id="path3710" />
+    <path
+       style="stroke:#000000;stroke-width:0.5;fill:none;stroke-linecap: round"
+       d="M 241.480801,777.436000 241.480801,706.569859"
+       id="path3712" />
+    <path
+       style="stroke:#000000;stroke-width:0.5;fill:none;stroke-linecap: round"
+       d="M 152.898124,777.436000 241.480801,777.436000"
+       id="path3714" />
+    <path
+       style="stroke:#000000;stroke-width:0.5;fill:none;stroke-linecap: round"
+       d="M 152.898124,777.436000 152.898124,706.569859"
+       id="path3716" />
+  </g>
+  <g
+     inkscape:label="FORMAT"
+     inkscape:groupmode="layer"
+     id="g3732" />
+</svg>
