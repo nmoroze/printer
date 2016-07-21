@@ -1,4 +1,4 @@
-# Printer
+﻿# Printer
 CAD files for custom 3D printer design. Inspired by Prusa i3. 
 
 I plan to have a more formal writeup about the construction process and design choices that went into this printer (but we'll see if that ever happens...). I designed it over the course of a month or so January 2016, and then did the majority of the construction February 2016. I am still continuously tweaking it to this day, of course -- that's the nature of 3D printing. 
@@ -19,6 +19,6 @@ I plan to have a more formal writeup about the construction process and design c
 * [Stepper damper model](https://grabcad.com/library/nema-17-stepper-motor-damper-1) by [Hans L](https://grabcad.com/hans.l-3)
 
 ## People
-* Danny Lu for giving me a bunch of aluminum extrusion and design advice
+* Danny Lu for giving me a bunch of aluminum extrusion, printing the extruder, and giving design advice
 * David Jin for laser cutting the parts of the printer
  
