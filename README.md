@@ -3,7 +3,7 @@ CAD files for custom 3D printer design. Inspired by Prusa i3.
 
 I plan to have a more formal writeup about the construction process and design choices that went into this printer (but we'll see if that ever happens...). I designed it over the course of a month or so January 2016, and then did the majority of the construction February 2016. I am still continuously tweaking it to this day, of course -- that's the nature of 3D printing. 
 
-**printer-new.sldasm is the correct and most up-to-date assembly.**
+**printer.sldasm is the correct and most up-to-date assembly.**
 
 
 # Acknowledgements
